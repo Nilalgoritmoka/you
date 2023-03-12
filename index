@@ -1,7 +1,7 @@
 <html>
  <title>Школа боевых искуств</titl>
  <body>
-  header>шапка сайта<header>
+  <header>шапка сайта</header>
   <main>основная информация</main>
   <footer>Подвал сайта</footer>
  </body>
